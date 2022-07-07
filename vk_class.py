@@ -1,4 +1,5 @@
-import requests, datetime
+import requests
+import datetime
 
 
 class VK:
